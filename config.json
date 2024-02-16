@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "newsRoom": "NEWS_CHANNEL_ID",
+  "releaseRoom": "RELEASES_CHANNEL_ID",
+  "top10": "TOP10_CHANNEL_ID"
+}
